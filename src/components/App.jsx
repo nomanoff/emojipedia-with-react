@@ -24,11 +24,6 @@ function App() {
 
       {emojipedia.map(createEmojiCard)}
 
-      
-
-      
-
-
       </dl>
 
       <Footer></Footer>
