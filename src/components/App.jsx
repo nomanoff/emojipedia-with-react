@@ -11,6 +11,7 @@ function createEmojiCard(card){
              img = {card.emoji}
              name = {card.name}
              meaning = {card.meaning}
+             markdown = {card.markdown}
          ></Entry>  
 }
 
